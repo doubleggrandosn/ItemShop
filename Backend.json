@@ -2,49 +2,49 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_245_Athena_Commando_F_DurrburgerPjs"
+           "AthenaCharacter:" "AstronomicalBundle"
         ],
-        "price": 1500
+        "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_140_StreetGoth"
+            "AthenaCharacter:" "CID_335_Athena_Commando_F_Scrapyard"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:CID_329_Athena_Commando_F_SnowNinja"
-        ],
-        "price": 1200
-    },
-    "daily4": {
-        "itemGrants": [
-            "AthenaDance:EID_WristFlick"
-        ],
-        "price": 500
-    },
-    "daily5": {
-        "itemGrants": [
-            "AthenaItemWrap:Wrap_006_Ice"
-        ],
-        "price": 500
-    },
-    "daily6": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_113_Barbarian"
-        ],
-        "price": 400
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"
+            "Pickaxe_ID_376_FNCS"
         ],
         "price": 1500
     },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_HipHop01"
+        ],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaDance"EID_JulyBooks"
+        ],
+        "price": 0
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaGlider:"Glider_Warthog
+        ],
+        "price": 1200
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter: CID_692_Athena_Commando_M_HenchmanTough 
+        ],
+        "price": 1000
+    },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_287_Athena_Commando_M_ArcticSniper"
+            "AthenaCharacter:CID_690_Athena_Commando_F_Photographer"
         ],
         "price": 1200
     }
