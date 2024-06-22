@@ -1,12 +1,12 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-CID_287_Athena_Commando_M_ArcticSniper, 1200
+AstronomicalBundle, free
+CID_335_Athena_Commando_F_Scrapyard, 1200
 na
 na
 na
 na
-CID_245_Athena_Commando_F_DurrburgerPjs, 1500
-CID_329_Athena_Commando_F_SnowNinja, 1200
-Pickaxe_ID_140_StreetGoth, 800
-EID_WristFlick, 500
-Glider_ID_113_Barbarian, 400
-Wrap_006_Ice, 500
+BID_004_BlackKnight, 800
+NinjaBundle, 1500
+Pickaxe_ID_363_LollipopTricksterFemale, 800
+ EID_Tidy, 500
+EID_HipHop01, free
+Glider_Warthog, 1500
